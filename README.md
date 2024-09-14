@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauã Vilarim 👋
+# Olá, sou Kauã Vilarim 👋
 
 ### Desenvolvedor com foco em backend e tecnologias web! 🚀
 
