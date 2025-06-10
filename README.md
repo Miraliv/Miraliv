@@ -1,19 +1,21 @@
 # Hi there, I'm Kauã Vilarim 👋
 
-### Backend Developer focused on web technologies and clean code! 🚀
+### Backend Developer | Java & Spring Boot Enthusiast
+
+![Profile Views](https://komarev.com/ghpvc/?username=Miraliv&color=blue&style=flat)
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about backend development using Java and Spring Boot  
-- 📖 Currently learning more about distributed systems and software architecture  
-- 🌱 Always aiming for clean code, solid principles, and best development practices  
-- 🔗 Enthusiastic about working with databases and web-based applications  
+- 💻 Backend-focused with Java + Spring Boot  
+- 🌐 Passionate about building web systems with databases  
+- 📖 Learning more about distributed systems and software architecture  
+- 🧹 Clean code, SOLID principles & best practices advocate  
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -28,17 +30,16 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miraliv&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miraliv&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Miraliv&show_icons=true&theme=radical&hide=prs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miraliv&layout=compact&theme=radical" height="165" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kaua-vilarim" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-- 📧 Email: kauavilarim@gmail.com
+<a href="https://www.linkedin.com/in/kaua-vilarim" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>  
+📧 kauavilarim@gmail.com
